@@ -33,4 +33,11 @@ Firstly we scrapped the amazon site for fetching reviews of One plus phone(link:
 Now after fetching of datasets we were to run both uni-directional & bi-directional codes. Since the dataset acquired is quite large we used kaggle notebooks for running having a support of GPU. GPU was required for mainly training of such huge file and also as the size of the batch file we mentioned was 400 with 100 epochs. 
 
 We first converted our data into the requisted form to be fed into the network 
-[](images/1.png)
+
+[](images/1.PNG)
+
+Then we first fed it to our unidirectional network with 2 layers for 100 epochs and got a loss of 4.0557 
+We implemented our project on Kaggle to use their GPU 
+
+[](images/2.PNG)
+
