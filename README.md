@@ -1,0 +1,2 @@
+# Text-Generator-using-Unidirectional-Bidirectional-LSTM-RNN-
+Text generation is a subfield of natural language processing. It leverages knowledge in computational linguistics and artificial intelligence to automatically generate natural language texts, which can satisfy certain communicative requirements. The purpose of this project is to discuss about text generation, using machine learning approaches, especially Recurrent Neural Networks (RNN). 
